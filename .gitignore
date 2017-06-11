@@ -8,3 +8,5 @@ include
 # Mac OS X custom attribute files
 .DS_Store
 
+logs/access.log
+logs/error.log
